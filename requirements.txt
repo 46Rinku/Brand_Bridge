@@ -1,0 +1,11 @@
+langchain-community
+langchain-core
+langgraph
+langchain-google-genai
+ipykernel
+python-dotenv
+langchain
+pypdf
+langchain-postgres
+psycopg[binary]
+
